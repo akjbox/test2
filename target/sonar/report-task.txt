@@ -1,0 +1,5 @@
+projectKey=org.sonarqube:example-java-maven
+serverUrl=http://sq:6300
+dashboardUrl=http://sq:6300/dashboard/index/org.sonarqube:example-java-maven
+ceTaskId=AVsfPz3w9sisziCJrB0v
+ceTaskUrl=http://sq:6300/api/ce/task?id=AVsfPz3w9sisziCJrB0v
